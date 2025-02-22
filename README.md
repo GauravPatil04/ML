@@ -1,7 +1,7 @@
 # Task List
 
 - [x] 1. Python Basics (Variables, Loops, Functions, Conditionals, Exception Handling)
-- [ ] 2. Data Structures (Lists, Dictionaries, Tuples, Sets, Queues, Stacks)
+- [x] 2. Data Structures (Lists, Dictionaries, Tuples, Sets, Queues, Stacks)
 - [ ] 3. File Handling (Reading/Writing files, JSON Handling)
 - [ ] 4. NumPy Basics (Arrays, Operations, Indexing, Reshaping, Statistical Functions)
 - [ ] 5. Pandas Basics (DataFrames, Series, Missing Data Handling, CSV & Excel Handling)
