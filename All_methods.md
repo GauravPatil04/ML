@@ -2,10 +2,10 @@
 |-----------------------|---------------|----------------------|---------------------|----------------------|----------------------|
 | `append()`            | `count()`     | `add()`              | `get()`             | `append()`           | `append()`           |
 | `insert(index, value)`| `index()`     | `remove()`           | `keys()`            | `pop()`              | `pop(0)`             |
-| `remove()`            |               | `discard()`          | `values()`          | `peek()` (custom)    | `peek()` (custom)    |
-| `pop()`               |               | `pop()`              | `items()`           | `is_empty()` (custom)| `is_empty()` (custom)|
-| `pop(index)`          |               | `clear()`            | `update()`          | `clear()` (custom)   | `clear()` (custom)   |
-| `clear()`             |               | `union()`            | `pop()`             | `size()` (custom)    | `size()` (custom)    |
+| `remove()`            |               | `discard()`          | `values()`          | `peek()` (stack[])    | `peek()` (queue[])    |
+| `pop()`               |               | `pop()`              | `items()`           | `clear()`            | `clear()`            |                      
+| `pop(index)`          |               | `clear()`            | `update()`          | `len()`              | `len()`              |
+| `clear()`             |               | `union()`            | `pop()`             | we can use linked list too| we can use linked list too |
 | `extend()`            |               | `intersection()`     | `popitem()`         |                      |                      |
 | `index()`             |               | `difference()`       | `clear()`           |                      |                      |
 | `count()`             |               | `symmetric_difference()` | `copy()`        |                      |                      |
