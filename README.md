@@ -1,4 +1,6 @@
 # Task List
 
-- [ ] 1. Salary Pridiction model
-- [ ] 2. House Price prediction (Feature Engineering)
+- [ ] 1. Logistic Regression
+- [ ] a. Iris dataset
+- [ ] b. Other Datasets
+- [ ] c. Normalize for better accuracy
